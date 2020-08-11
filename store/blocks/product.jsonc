@@ -61,7 +61,7 @@
   "sku-selector": {
     "props": {
       "visibility": "more-than-one",
-      "showValueForVariation": "image",
+      "showValueForVariation": "all",
       "showVariationsErrorMessage": true
     }
   }
