@@ -1,0 +1,7 @@
+{
+    "info-card#button-left": {
+        "props": {
+            "text-align": "left"
+        }
+    }
+}
