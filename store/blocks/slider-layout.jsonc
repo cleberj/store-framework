@@ -10,7 +10,7 @@
         ],
         "props": {
           "autoplay": {
-            "timeout": 400,
+            "timeout": 5000,
             "stopOnHover": true
           },
           "slideTransition":{
