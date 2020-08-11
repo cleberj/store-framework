@@ -23,6 +23,9 @@
       "autoplay": {
         "timeout": 7000,
         "stopOnHover": true
+      },
+      "slideTransition":{
+        "speed":7000
       }
     }
   },
